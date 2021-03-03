@@ -26,8 +26,6 @@
 
 <h3 align="left">Frameworks and Tools:</h3>
 <p align="left">
-<a href="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"/> </a>
-<a href="https://camo.githubusercontent.com/e2d2713531b33068d2fcaba123f070176d8a68e7e5df4658c9050ea54b876571/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d46697265626173652d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365" target="_blank"> <img src="https://camo.githubusercontent.com/e2d2713531b33068d2fcaba123f070176d8a68e7e5df4658c9050ea54b876571/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d46697265626173652d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365" alt="firebase"/>
 <a href="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/></a>
 <a href="	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/></a>
 <a href="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
