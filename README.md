@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayanktolani19&label=Profile%20views&color=0e75b6&style=flat" alt="mayanktolani19" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AshuKV&label=Profile%20views&color=0e75b6&style=flat" alt="AshuKV" /> </p>
 
 - 🔭 I’m currently working as a **Open Source Contributor**
 
