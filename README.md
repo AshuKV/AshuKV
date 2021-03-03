@@ -26,7 +26,6 @@
 
 <h3 align="left">Frameworks and Tools:</h3>
 <p align="left">
-<a href="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/></a>
 <a href="	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/></a>
 <a href="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
 </a> 
@@ -40,7 +39,7 @@
 
 <h3 align="left">Coding Platforms:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/mayanktolani19"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<a href="https://leetcode.com/ashuKv/"><img alt="LeetCode" src="https://img.shields.io/badge/-leetcode-2EC866?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
 
