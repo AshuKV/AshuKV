@@ -9,12 +9,11 @@
 
 - 📝 I occasionally write articles on Medium []()
 
-- 📫 How to reach me **ashutosh99october@gmail.com**
+- 👯 I’m looking to collaborate on anything Data Science / MERN stack projects
+
+- 📫 How to reach me: [Twitter](https://twitter.com/Ashutos54650035)
 
 - 📄 Fun fact: I am a ludo expert :)- []()
-
-- 👯 I’m looking to collaborate. 
-
 
 
 <h3 align="left">Languages:</h3>
