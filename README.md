@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working as a **Open Source Contributor**
 
-- 📝 I occasionally write articles on Medium []()
+- 📝 I occasionally write articles on Quora []()
 
 - 👯 I’m looking to collaborate on anything Data Science / MERN stack projects
 
 - 📫 How to reach me: [Twitter](https://twitter.com/Ashutos54650035)
 
-- 📄 Fun fact: I am a ludo expert :)- []()
+- 📄 Fun fact: I am a chess expert :)- []()
 
 
 <h3 align="left">Languages:</h3>
