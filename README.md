@@ -33,17 +33,15 @@
 
 <h3 align="left">Frameworks and Tools:</h3>
 <p align="left">
-<a href="	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/></a>
-<a href="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-</a> 
 <a href="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a>
 <a href="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css3"/></a>
-<a href="https://camo.githubusercontent.com/d5e222f37b91cf39143d6ed867b049fed4f621256765b33620103bf99a05d1f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d676974" target="_blank"> <img src="https://camo.githubusercontent.com/d5e222f37b91cf39143d6ed867b049fed4f621256765b33620103bf99a05d1f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d676974" alt="git"/></a>
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-<img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-<img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
-<a href="https://camo.githubusercontent.com/473c627ae1fb6868c6b13c2a591fec0c82d09851c292c383d411656fd20adb63/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e61636f6e64612d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d616e61636f6e6461"><img src="https://camo.githubusercontent.com/473c627ae1fb6868c6b13c2a591fec0c82d09851c292c383d411656fd20adb63/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e61636f6e64612d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d616e61636f6e6461"></a>
- <a href="https://img.shields.io/badge/Express-239120?style=for-the-badge&logo=Express&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/Express-239120?style=for-the-badge&logo=Express&logoColor=white" alt="Express"/></a>
+<a href="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
+</a> 
+<a href="	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/></a>
+<a href="https://img.shields.io/badge/mongodb-239120?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/mongodb-239120?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/></a>
+<a href="https://img.shields.io/badge/Express-239120?style=for-the-badge&logo=Express&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/Express-239120?style=for-the-badge&logo=Express&logoColor=white" alt="Express"/></a>
+<a href="https://img.shields.io/badge/React-239120?style=for-the-badge&logo=React&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/React-239120?style=for-the-badge&logo=React&logoColor=white" alt="React"/></a>
+<a href="https://img.shields.io/badge/Node.js-239120?style=for-the-badge&logo=Node.js&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/Node.js-239120?style=for-the-badge&logo=Node.js&logoColor=white" alt="Nodejs"/></a>
 
 <h3 align="left">Coding Platforms:</h3>
 <p align="left">
@@ -53,9 +51,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ashutosh-kumar-verma-858134159/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mayanktolani19"/></a>
-<a href="https://www.facebook.com/ashutosh.verma.5836/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="mayanktolani19"/></a>
-<a href="mailto:ashutosh99october@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mayanktolani19"/></a>
+<a href="https://www.linkedin.com/in/ashutosh-kumar-verma-858134159/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a>
+<a href="https://www.facebook.com/ashutosh.verma.5836/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt=""/></a>
+<a href="https://twitter.com/Ashutos54650035" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-1877F2?style=for-the-badge&logo=twitter&logoColor=white" alt=""/></a>
+<a href="mailto:ashutosh99october@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""/></a>
 </p>
 
 
