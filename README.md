@@ -26,7 +26,9 @@
 <p align="left"><a href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a>
 <a href="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/></a>
 <a href="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus"/> </a>
-<a href="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/></a></p>
+<a href="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/></a>
+<a href="https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=Javascript&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=Javascript&logoColor=white" alt="Javascript"/></a>
+<a href="https://img.shields.io/badge/golang-ED8B00?style=for-the-badge&logo=golang&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/golang-ED8B00?style=for-the-badge&logo=golang&logoColor=white" alt="golang"/></a></p>
 
 
 <h3 align="left">Frameworks and Tools:</h3>
@@ -41,6 +43,7 @@
 <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
 <a href="https://camo.githubusercontent.com/473c627ae1fb6868c6b13c2a591fec0c82d09851c292c383d411656fd20adb63/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e61636f6e64612d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d616e61636f6e6461"><img src="https://camo.githubusercontent.com/473c627ae1fb6868c6b13c2a591fec0c82d09851c292c383d411656fd20adb63/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e61636f6e64612d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d616e61636f6e6461"></a>
+ <a href="https://img.shields.io/badge/Express-239120?style=for-the-badge&logo=Express&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/Express-239120?style=for-the-badge&logo=Express&logoColor=white" alt="Express"/></a>
 
 <h3 align="left">Coding Platforms:</h3>
 <p align="left">
