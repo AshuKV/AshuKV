@@ -60,10 +60,13 @@
 
 <h3 align="left">My Github Stats:</h3>
  
+<p align="left">
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AshuKV&margin-w=5&margin-h=5&no-bg=true&no-frame=true&theme=onedark" alt="AshuKV" /></a>
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshuKV&show_icons=true&locale=en&layout=compact" alt="AshuKV" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AshuKV&show_icons=true&locale=en" alt="AshuKV" /></p>
-
 
 
 <!--
