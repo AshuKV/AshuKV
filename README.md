@@ -1,19 +1,25 @@
 <h1 align="center">Hi 👋, I'm Ashutosh  Verma</h1>
-<h3 align="center">I'm a 4rth year B.Tech student from Indian Institute of Information Technology, Pune.</h3>
+<h3 align="center">I am a budding Software Developer, who is very passionate about Artificial Intelligence and Full-Stack Development</h3>
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AshuKV&label=Profile%20views&color=0e75b6&style=flat" alt="AshuKV" /> </p>
 
-- 🔭 I’m currently working as a **Open Source Contributor**
+- 🔭 I’m currently a Mentor at **LetsGrowMore Summer of Code**
 
-- 📝 I occasionally write articles on Quora []()
+- 📝 I am a proficient Programmer in C++ and with working knowledge of Python, JavaScipt, Golang, and SQL.
 
-- 👯 I’m looking to collaborate on anything Data Science / MERN stack projects
+- I’m currently working on Next.js, and Strapi CMS.
+
+- 👯 I’m looking to collaborate on anything Data Science / MERN stack projects.
+
+- I’m currently learning AWS.
 
 - 📫 How to reach me: [Twitter](https://twitter.com/Ashutos54650035)
 
-- 📄 Fun fact: I am a chess expert :)- []()
+- 📄 Fun fact: Caffeine helps me Code...
+
+-  I'm Open for New Opportunities.
 
 
 <h3 align="left">Languages:</h3>
