@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently a Mentor at **LetsGrowMore Summer of Code**
 
+- I've previously been a Participant ar **GirlScript Summer of Code**, check out my contributed issues [here](https://github.com/issues?page=1&q=is%3Aclosed+is%3Aissue+assignee%3AAshuKV+label%3AGSSOC21) 
+
 - 📝 I am a proficient Programmer in C++ and with working knowledge of Python, JavaScipt, Golang, and SQL.
 
 - I’m currently working on Next.js, and Strapi CMS.
