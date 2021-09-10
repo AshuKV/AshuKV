@@ -7,7 +7,7 @@
 
 - ⚡ I'm currently working as a Supervisor at **GirlScript Winter of Contributing** for MERN Stack. 
 
-- 🔭 I’ve previously been a Mentor at **LetsGrowMore Summer of Code** for [easy-education](https://github.com/luckykumarirai/easy-education) Project.
+- 🔭 I’ve previously been a Mentor at **LetsGrowMore Summer of Code** for [Easy-Education](https://github.com/luckykumarirai/easy-education) Project.
 
 - 👯 I've previously been a Participant ar **GirlScript Summer of Code**, check out my contributed issues [here](https://github.com/issues?page=1&q=is%3Aclosed+is%3Aissue+assignee%3AAshuKV+label%3AGSSOC21) 
 
