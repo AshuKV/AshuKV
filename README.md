@@ -5,23 +5,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AshuKV&label=Profile%20views&color=0e75b6&style=flat" alt="AshuKV" /> </p>
 
-- 🔭 I’m currently a Mentor at **LetsGrowMore Summer of Code**
+- ⚡ I'm currently working as a Supervisor at **GirlScript Winter of Contributing** for MERN Stack. 
 
-- I've previously been a Participant ar **GirlScript Summer of Code**, check out my contributed issues [here](https://github.com/issues?page=1&q=is%3Aclosed+is%3Aissue+assignee%3AAshuKV+label%3AGSSOC21) 
+- 🔭 I’ve previously been a Mentor at **LetsGrowMore Summer of Code** for [easy-education](https://github.com/luckykumarirai/easy-education) Project.
 
-- 📝 I am a proficient Programmer in C++ and with working knowledge of Python, JavaScipt, Golang, and SQL.
+- 👯 I've previously been a Participant ar **GirlScript Summer of Code**, check out my contributed issues [here](https://github.com/issues?page=1&q=is%3Aclosed+is%3Aissue+assignee%3AAshuKV+label%3AGSSOC21) 
 
-- I’m currently working on Next.js, and Strapi CMS.
+- 📝 I am a proficient Programmer in C++ and with working knowledge of Python, JavaScipt, and SQL.
 
 - 👯 I’m looking to collaborate on anything Data Science / MERN stack projects.
 
-- I’m currently learning AWS.
+- 😄 I’m currently learning AWS.
 
 - 📫 How to reach me: [Twitter](https://twitter.com/Ashutos54650035)
 
 - 📄 Fun fact: Caffeine helps me Code...
 
--  I'm Open for New Opportunities.
+- ⚡ I'm Open for New Opportunities.
 
 
 <h3 align="left">Languages:</h3>
